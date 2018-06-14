@@ -1,0 +1,4 @@
+Files that need to be copied here from Mirao52e DVD:
+mirao52e.dll
+mirao52e.h
+mirao52e.lib
